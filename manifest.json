@@ -1,6 +1,6 @@
 {
-    "name": "AMPNews",
-    "short_name": "AMPNews",
+    "name": "AmpeNewss",
+    "short_name": "AmpeNewss",
     "start_url": "https://ampenewss.blogspot.com/",
     "display": "standalone",
     "background_color": "#fff",
